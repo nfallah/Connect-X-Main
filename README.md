@@ -16,4 +16,4 @@ Written in C# and created in conjunction with the Unity game engine and its stan
 
 ## Credits
 __Lead Programmer__: Nima Fallah  
-__Parter in Crime:__ Matthew Loaces
+__Partner in Crime:__ Matthew Loaces
